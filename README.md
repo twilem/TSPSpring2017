@@ -1,2 +1,1 @@
-# TSPSpring2017
-Fake project to learn how to use git
+This is used as a testing repository for the gitlab homework. 
