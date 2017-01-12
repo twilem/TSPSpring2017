@@ -1,0 +1,5 @@
+Name: Alejandro-Jeronimo Ayala-Perez
+email: ajayalap@mtu.edu
+github: ajayalap
+
+CS3141 Stéphane Zuckerman
