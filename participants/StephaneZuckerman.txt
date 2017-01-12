@@ -1,0 +1,6 @@
+Name: Stéphane Zuckerman
+email: szuckerm@mtu.edu
+github: szuckermanmtu
+
+class instructor
+
