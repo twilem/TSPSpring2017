@@ -1,0 +1,7 @@
+Name: Brendan Hansknecht
+email: blhanskn@mtu.edu
+github: Bren077s
+
+A first year CS student who enjoys studying Deep Learning.
+I work at Trinity Health as a programmer in the innovation program.
+Life is good.
