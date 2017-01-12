@@ -1,13 +1,21 @@
-//
-<br/>// Please put names in alphabetical order (according to first name) into this file
-<br/>//
-<br/>Adam Reichanadter
-<br/>Alejandro-Jeronimo Ayala-Perez
-<br/>Alex Stanage
-<br/>Brendan Hansknecht
-<br/>Brett Kurzawa
-<br/>Darren Wiltse
-<br/>Jo Taylor
-<br/>Kavan Ferguson
-`Piper Dougherty`
+### Names
+###### *Please put names in aphabetical order, according to first name.*
+
+Adam Reichanadter
+
+Alejandro-Jeronimo Ayala-Perez
+
+Alex Stanage
+
+Brendan Hansknecht
+
+Brett Kurzawa
+
+Darren Wiltse
+
+Jo Taylor
+
+Kavan Ferguson
+
+Piper Dougherty
 
