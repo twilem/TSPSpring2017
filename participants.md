@@ -1,5 +1,5 @@
 ### Names
-###### *Please put names in aphabetical order, according to first name.*
+###### *Please put names in alphabetical order, according to first name.*
 
 Adam Reichanadter
 Alejandro-Jeronimo Ayala-Perez
