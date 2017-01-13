@@ -1,0 +1,6 @@
+Name: Christian LaCourt
+email: cllacour@mtu.edu
+github: cofl
+
+2^nd year CS.
+
