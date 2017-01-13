@@ -37,6 +37,8 @@ main (int argc, char *argv[])
   
   printf ("%02d: Kavan Ferguson\n",++i);
 
+  printf ("%02d: Nic Fosdick\n",++i);
+
   printf ("%02d: Brett Kurzawa\n", ++i);
 
   printf ("%02d: Adam Reichanadter\n", ++i);
