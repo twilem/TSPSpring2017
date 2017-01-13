@@ -11,6 +11,8 @@ Brendan Hansknecht
 
 Brett Kurzawa
 
+Collin Walker
+
 Darren Wiltse
 
 Jo Taylor
