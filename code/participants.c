@@ -28,16 +28,24 @@ main (int argc, char *argv[])
   printf ("%02d: Darren Wiltse\n", ++i);  
     
   printf ("%02d: Jo Taylor\n", ++i);
+    
+  printf ("%02d: Marissa Walther\n", ++i);
+
+  printf ("%02d: Collin Walker\n", ++i);
 
   printf ("%02d: Alejandro-Jeronimo Ayala-Perez\n",++i);
   
   printf ("%02d: Kavan Ferguson\n",++i);
+
+  printf ("%02d: Nic Fosdick\n",++i);
 
   printf ("%02d: Brett Kurzawa\n", ++i);
 
   printf ("%02d: Adam Reichanadter\n", ++i);
 
   printf ("%02d: Piper Dougherty\n", ++i);
+
+  printf ("%02d: Josh Fosdick\n", ++i);
 
   printf ("There are %i participants.\n", i);
   return 0;
