@@ -1,0 +1,6 @@
+Name: Brandon Johnson
+email: brajohns@mtu.edu
+github: denu8thell
+
+An MTU student majoring in computer science, who enjoys living.
+
