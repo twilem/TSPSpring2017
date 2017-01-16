@@ -1,0 +1,5 @@
+Name: Tyler Schlomer
+email: tnschlom@mtu.edu
+github: tnschlom
+
+second year computer science student
