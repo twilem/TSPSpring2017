@@ -21,6 +21,8 @@ Dylan Brosseau
 
 Eamonn Daley
 
+Jay Honnold
+
 Jo Taylor
 
 Josh Fosdick
