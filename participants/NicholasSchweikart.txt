@@ -1,0 +1,5 @@
+Name: Nicholas Schweikart
+email: nsschwei@mtu.edu
+github: NicholasSchweikart
+
+Senior Computer Engineering
