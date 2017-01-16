@@ -1,0 +1,7 @@
+Name: Nicholas Waara
+email: nmwaara@mtu.edu
+github: nmwaara
+
+class student
+Fourth year Computer Engineering
+
