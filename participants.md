@@ -17,6 +17,8 @@ Collin Walker
 
 Darren Wiltse
 
+Derek Burrell
+
 Dylan Brosseau
 
 Eamonn Daley
