@@ -21,6 +21,8 @@ Dylan Brosseau
 
 Eamonn Daley
 
+James Giannunzio
+
 Jay Honnold
 
 Jo Taylor
