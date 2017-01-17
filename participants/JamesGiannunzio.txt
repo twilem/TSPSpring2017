@@ -1,0 +1,5 @@
+Name: James Giannunzio
+email: jagiannu@mtu.edu
+github: JamesGiannunzio
+
+2nd year computer science student
