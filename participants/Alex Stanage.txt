@@ -1,0 +1,5 @@
+Name: Alex Stanage
+email: amstanag@mtu.edu
+github: amstanag
+
+student

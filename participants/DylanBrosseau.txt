@@ -1,0 +1,5 @@
+Name: Dylan Brosseau
+email: debrosse@mtu.edu
+github: debrosse
+
+student

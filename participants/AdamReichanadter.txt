@@ -1,0 +1,5 @@
+Name: Adam Reichanadter
+email: ajreicha@mtu.edu
+github: AdamReichanadter
+
+second year software engineering student

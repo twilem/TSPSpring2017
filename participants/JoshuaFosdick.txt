@@ -1,0 +1,5 @@
+Name: Joshua Fosdick
+Email: jlfosdic@mtu.edu
+Github: jlfosdic
+
+Software Engineering student

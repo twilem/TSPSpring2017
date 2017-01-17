@@ -1,0 +1,5 @@
+Name: Nicholas Fosdick
+email: nlfosdic@mtu.edu
+github: nlfosdic
+
+student

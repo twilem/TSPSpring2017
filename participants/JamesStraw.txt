@@ -1,0 +1,5 @@
+Name: James Straw
+Email: jnstraw@mtu.edu
+Github: jnstraw
+
+Description:I'm a fourth year CS student with one more year to go.

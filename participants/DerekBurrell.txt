@@ -1,0 +1,5 @@
+name: Derek Burrell
+email: djburrel@mtu.edu
+GitHub: derekburrell
+
+I’m an electrical engineering student minoring in computer science.

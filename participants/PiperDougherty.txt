@@ -1,0 +1,5 @@
+Name: Piper Dougherty
+email: pjdoughe@mtu.edu
+github: doughepi
+
+Second year CS student taking team software project.

@@ -1,0 +1,5 @@
+Name: Eamonn Daley
+email: edaley@mtu.edu
+github: edaley5177
+
+Class Student
