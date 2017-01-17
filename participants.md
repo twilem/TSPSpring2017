@@ -33,6 +33,8 @@ Jo Taylor
 
 Josh Fosdick
 
+Kate Weber
+
 Kavan Ferguson
 
 Marissa Walther
